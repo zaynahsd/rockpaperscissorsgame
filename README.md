@@ -1,2 +1,2 @@
 # rockpaperscissorsgame
-Rock Paper Scissors game I created during FCC Intro to Python course.
+This is a rock paper scissors game I created in Python during a FCC Intro to Python course.
